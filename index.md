@@ -1,3 +1,3 @@
 
-#React Learning Notes
+# React Learning Notes
 ## Creat a React demo
